@@ -1,7 +1,7 @@
 WORKDIR=work
 PACKAGES="$(shell cat packages.list) syslinux"
 NAME=concerto_player_ng
-VER=1.00
+VER=0.1
 kver_FILE=$(WORKDIR)/root-image/etc/mkinitcpio.d/kernel26.kver
 ARCH?=$(shell uname -m)
 PWD:=$(shell pwd)
