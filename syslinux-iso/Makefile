@@ -6,7 +6,7 @@ ARCH?=$(shell uname -m)
 
 PWD=$(shell pwd)
 NETname=$(PWD)/archlinux-$(ver)-netinstall-$(ARCH).iso
-COREname=$(PWD)/archlinux-$(ver)-core-$(ARCH).iso
+COREname=$(PWD)/concerto-player-$(ver)-$(ARCH).iso
 
 PACKAGES="$(shell cat packages.$(ARCH))"
 
