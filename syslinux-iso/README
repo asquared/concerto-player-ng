@@ -1,0 +1,21 @@
+This is a modified copy of scripts included with the 'archiso' distrobution.
+That distribution is available at http://projects.archlinux.org/archiso.git.
+
+Some files in that distribution include GPLv2 notices. Therefore, I have
+assumed that the entire distribution is available under GPLv2.
+
+So, here goes...
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
