@@ -14,7 +14,6 @@ hdparm
 inetutils
 ipw2100-fw
 ipw2200-fw
-joe
 lftp
 lilo
 memtest86+
@@ -42,7 +41,8 @@ wpa_actiond
 wpa_supplicant
 zd1211-firmware
 xorg
-xorg-video-drivers
+xorg-drivers
+xorg-xinit
 xfwm4
 midori
 unclutter

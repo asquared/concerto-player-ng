@@ -1,4 +1,4 @@
 #!/bin/sh
 
-export BASE_URL="http://www.example.com"
+export BASE_URL="http://signage.rpi.edu"
 
