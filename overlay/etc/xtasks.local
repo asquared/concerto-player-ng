@@ -1,0 +1,6 @@
+#!/bin/sh
+
+xfwm4 &
+sleep 2
+firefox 'http://concerto.rpi.edu/?mac=aaa'
+
