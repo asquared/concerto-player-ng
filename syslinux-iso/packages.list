@@ -1,6 +1,7 @@
 aif
 aufs2
 aufs2-util
+base
 b43-fwcutter
 crda
 ddrescue
@@ -14,7 +15,6 @@ hdparm
 inetutils
 ipw2100-fw
 ipw2200-fw
-joe
 lftp
 lilo
 memtest86+
@@ -41,3 +41,9 @@ wireless_tools
 wpa_actiond
 wpa_supplicant
 zd1211-firmware
+xorg
+xorg-drivers
+xorg-xinit
+xfwm4
+midori
+unclutter
