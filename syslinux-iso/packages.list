@@ -44,6 +44,10 @@ zd1211-firmware
 xorg
 xorg-drivers
 xorg-xinit
+xf86-video-nouveau
+nouveau-dri
+mesa
+libgl
 xfwm4
 midori
 unclutter
